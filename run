@@ -1,0 +1,5 @@
+#!/home/austin/Programs/python/badApple/run
+
+source .venv/bin/activate
+pip install opencv-python
+python3 main.py
